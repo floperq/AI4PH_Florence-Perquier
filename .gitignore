@@ -1,0 +1,8 @@
+.ipynb_checkpoints
+*.zip
+chromedriver
+.DS.Store
+*DS_Store
+venv
+__psycache__
+*.csv
